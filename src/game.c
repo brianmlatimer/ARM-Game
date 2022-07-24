@@ -5,6 +5,7 @@
 #include <stdio.h>
 #include <string.h> // for //memset() declaration
 #include <math.h>
+#include <beastmode.h> //joel
 
 void
 setup_tim17 ()
